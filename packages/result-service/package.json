@@ -44,7 +44,7 @@
         "@types/dockerode": "^3.2.1",
         "@types/dotenv": "^8.2.0",
         "@types/express": "^4.17.4",
-        "@types/fs-extra": "^8.1.0",
+        "@types/fs-extra": "^9.0.12",
         "@types/jsonwebtoken": "^8.3.9",
         "@types/mysql": "^2.15.17",
         "@types/node": "^13.11.0",
