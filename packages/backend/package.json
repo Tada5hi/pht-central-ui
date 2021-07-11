@@ -6,7 +6,7 @@
     "description": "",
     "main": "dist/index.js",
     "dependencies": {
-        "@casl/ability": "^4.1.4",
+        "@casl/ability": "^5.3.1",
         "@decorators/di": "^1.0.2",
         "@decorators/express": "^2.4.0",
         "@typescript-auth/core": "^0.0.15",
